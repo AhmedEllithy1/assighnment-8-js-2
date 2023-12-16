@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+    line-height: 80px;
+    padding-top: 10px;
+}
+
+#home h1{
+    font-weight: 900;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+#home p{
+    font-size: 35px;
+    color: black;
+}
+
+#home button{
+    background-color: aqua;
+    padding: 0px 80px;
+    background-color: blue;
+    color: white;
+}
+
+#home button:hover{
+    background-color: #008000;
+}
